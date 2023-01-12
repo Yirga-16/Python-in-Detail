@@ -1,7 +1,7 @@
 <p align="center"> 
 <a href="https://github.com/Yirga-16"><img src="https://img.shields.io/static/v1?logo=github&label=main&message=Yirga-16&color=ff3300" alt="Last Commit"/></a> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYirga-16/Python-in-Detail"/></a>
-<a href="https://github.com/Yirga-16/Python-in-Detail/pulls"><img src="https://img.shields.io/github/issues-pr/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Yirga-16/Python-in-Detail/pulls"><img src="https://img.shields.io/github/issues-pr/Yirga-16/Python-in-Detail.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Yirga-16/Python-in-Detail/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
 </p> 
 
