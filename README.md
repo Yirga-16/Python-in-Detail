@@ -56,7 +56,7 @@ Go [**`here`**](https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python
 
 1. Go [**`here`**](https://github.com/Yirga-16/Python-in-Detail) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/Yirga-16/Python-in-Detail/archive/refs/heads/main.zip).
 
-    ![Download ZIP](https://github.com/Yirga-16/Python-in-Detail/tree/main/01_Python_Introduction/img/dnld_rep.png) 
+    ![Download ZIP](img/dnld_rep.png) 
 
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
