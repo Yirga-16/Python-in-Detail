@@ -1,12 +1,7 @@
 <p align="center"> 
 <a href="https://github.com/Yirga-16"><img src="https://img.shields.io/static/v1?logo=github&label=main&message=Yirga-16&color=ff3300" alt="Last Commit"/></a> 
-
-
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYirga-16%2F02_Python_Datatypes&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
-
 <a href="https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes/pulls"><img src="https://img.shields.io/github/issues-pr/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
-
-
 <a href="https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
 </p> 
 
@@ -61,7 +56,7 @@ Go [**`here`**](https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python
 
 1. Go [**`here`**](https://github.com/Yirga-16/Python-in-Detail) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/Yirga-16/Python-in-Detail/archive/refs/heads/main.zip).
 
-    ![Download ZIP](img/dnld_rep.png) 
+    ![Download ZIP](https://github.com/Yirga-16/Python-in-Detail/tree/main/01_Python_Introduction/img/dnld_rep.png) 
 
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
