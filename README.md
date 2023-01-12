@@ -6,8 +6,8 @@
 </p> 
 
 <p align="center"> 
-<a href="https://mybinder.org/v2/gh/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
-<a href="https://githubtocolab.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>    
+<a href="https://mybinder.org/v2/gh/Yirga-16/Python-in-Detail/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
+<a href="https://githubtocolab.com/Yirga-16/Python-in-Detail"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>    
 </p> 
 
 
