@@ -1,14 +1,12 @@
 <p align="center"> 
-<a href="https://github.com/Yirga-16"><img src="https://img.shields.io/static/v1?logo=github&label=maint&message=Yirga-16&color=ff3300" alt="Last Commit"/></a> 
-<a href="https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a> 
-<a href="https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes.svg?colorB=teal&style=flat" /></a> 
+<a href="https://github.com/Yirga-16"><img src="https://img.shields.io/static/v1?logo=github&label=main&message=Yirga-16&color=ff3300" alt="Last Commit"/></a> 
+
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYirga-16%2F02_Python_Datatypes&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
-<a href="https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes/stargazers"><img src="https://img.shields.io/github/stars/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes.svg?colorB=1a53ff" alt="Stars Badge"/></a>
-<a href="https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes/network/members"><img src="https://img.shields.io/github/forks/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes" alt="Forks Badge"/> </a>
-<img src="https://img.shields.io/github/repo-size/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes.svg?colorB=CC66FF&style=flat" alt="Size"/>
+
 <a href="https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes/pulls"><img src="https://img.shields.io/github/issues-pr/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes/issues"><img src="https://img.shields.io/github/issues/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
-<img src="https://img.shields.io/github/languages/top/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes.svg?colorB=996600&style=flat" alt="Language"/></a> 
+
+
 <a href="https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
 </p> 
 
@@ -61,7 +59,7 @@ Go [**`here`**](https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python
 
 ### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />
 
-1. Go [**`here`**](https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/Yirga-16/Python-in-Detail/tree/main/02_Python_Datatypes/archive/refs/heads/main.zip).
+1. Go [**`here`**](https://github.com/Yirga-16/Python-in-Detail) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/Yirga-16/Python-in-Detail/archive/refs/heads/main.zip).
 
     ![Download ZIP](img/dnld_rep.png) 
 
@@ -92,4 +90,3 @@ If you like this tutorial, please [give it a ⭐ star](https://github.com/Yirga-
 ## Licence 📜
 
 You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
-
